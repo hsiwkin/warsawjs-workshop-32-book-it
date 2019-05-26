@@ -5,7 +5,10 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <link rel="stylesheet" href="hhttps://cdnjs.cloudflare.com/ajax/libs/antd/3.18.2/antd.min.css" />
+          <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/antd/3.18.2/antd.min.css"
+          />
         </Head>
 
         <body>
